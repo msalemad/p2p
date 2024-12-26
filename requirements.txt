@@ -1,5 +1,2 @@
-socket
-threading
-colorama
-tqdm
-```
+colorama==0.4.4  # Para colores en la consola
+tqdm==4.62.3     # Para barras de progreso
