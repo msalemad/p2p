@@ -1,0 +1,5 @@
+socket
+threading
+colorama
+tqdm
+```
